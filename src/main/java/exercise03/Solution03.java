@@ -26,6 +26,6 @@ public class Solution03 {
         System.out.print("Who said it? ");
         String author = scanner.nextLine();
         char quote = '"';
-        System.out.print(author + " says, " + quote + string + quote);
+        System.out.println(author + " says, " + quote + string + quote);
     }
 }
